@@ -18,6 +18,18 @@
   margin-bottom: 1.5rem;
 }
 
+label {
+  margin-right: 18px;
+  width: 36px;
+}
+
+input {
+  width: 76px;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
 .startBtn,
 .stopBtn,
 .showBtn {

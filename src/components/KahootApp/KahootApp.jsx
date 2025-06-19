@@ -36,7 +36,7 @@ export default function KahootApp() {
 
   return (
     <div className={styles.container}>
-      <h1 className={styles.title}>Кахут</h1>
+      <h1 className={styles.title}>Kahoot!</h1>
 
       {currentIndex === -1 ? (
         <div>
@@ -77,7 +77,7 @@ export default function KahootApp() {
         </div>
       ) : (
         <div>
-          <h2>Кінець!</h2>
+          <h2>The end!</h2>
         </div>
       )}
     </div>
